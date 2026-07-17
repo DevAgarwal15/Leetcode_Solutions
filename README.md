@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0875-koko-eating-bananas](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -64,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
@@ -111,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -135,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevAgarwal15/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
